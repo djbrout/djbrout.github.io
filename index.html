@@ -1,167 +1,443 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html> 
+<html lang="en"> 
+    <head> 
+    <style>
+        .thumbnailwithhover:hover {
+            background-color: #F0F0F0;
+            -o-transition:.7s;
+  -ms-transition:.7s;
+  -moz-transition:.7s;
+  -webkit-transition:.7s;
+  /* ...and now for the proper property */
+  transition:.7s;
+        }
+    </style>
+        <meta charset="utf-8"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <meta name="description" content=""> 
+        <meta name="author" content=""> 
+        <title>Dillon Brout</title>         
+        <link rel="shortcut icon" href="images/favicon.ico"> 
+        <!-- Bootstrap -->         
+        <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet"> 
+        <!-- Icons -->         
+        <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"> 
+        <!-- Fonts -->         
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700"> 
+        <!-- Custom styles -->         
+        <link rel="stylesheet" href="assets/css/styles.css"> 
+        <script type='text/javascript' src='assets/js/jquery.particleground.js'></script>
+        <script type='text/javascript' src='assets/js/demo.js'></script>
+        <!--[if lt IE 9]> <script src="assets/js/html5shiv.js"></script> <![endif]-->         
+        <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-<head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="">
-        <meta name="author" content="Dillon Brout ">
+  ga('create', 'UA-98454219-1', 'auto');
+  ga('send', 'pageview');
 
+</script>
+<script type="text/javascript">
+<!--
+var arxiv_authorid = "brout_d_1";
+//--></script>
+<script type="text/javascript" src="https://arxiv.org/js/myarticles.js"></script> 
+<style type="text/css">
+div.arxivfeed {margin-bottom: 5px; width:700px;}
+</style>
 
-        <title>[Dillblogs]</title>
+    </head>     
+    <body class="home"> 
+        <main id="main"> 
+            <div id="head" class="parallax" parallax-speed="2" style="vertical-align: text-top;"> 
+                <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    particleground(document.getElementById('particles'), {
+      dotColor: '#737373',
+      lineColor: '#737373',
+        parallaxMultiplier: 20
 
-            <link href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="[Dillblogs] Full Atom Feed" />
-        <!-- Bootstrap Core CSS -->
-        <link href="/theme/css/bootstrap.min.css" rel="stylesheet">
+    });
+    var intro = document.getElementById('intro');
+    intro.style.marginTop = -intro.offsetHeight / 2 + 'px';
+  }, false);
 
-        <!-- Custom CSS -->
-        <link href="/theme/css/clean-blog.min.css" rel="stylesheet">
-
-        <!-- Code highlight color scheme -->
-            <link href="/theme/css/code_blocks/darkly.css" rel="stylesheet">
-
-
-        <!-- Custom Fonts -->
-        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-        <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-
-        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-        <!--[if lt IE 9]>
-            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-        <![endif]-->
-
-                <meta property="og:locale" content="">
-		<meta property="og:site_name" content="[Dillblogs]">
-</head>
-
-<body>
-
-    <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
-        <div class="container-fluid">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="/">[Dillblogs]</a>
-            </div>
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
-    </nav>
-
-    <!-- Page Header -->
-    <!-- Set your background image for this header on the line below. -->
-        <header class="intro-header" style="background-image: url('/theme/images/home-bg.jpg')">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <div class="page-heading">
-                        <h1>[Dillblogs]</h1>
+</script>
+                <div id="particles">
+                    <section class="container-fluid about">
+                        <div class="container parallax-window " data-parallax="scroll" data-image-src="/images/parallax.jpg">
+                            <div class="row">
+                                <div class="col-md-12" style="position: absolute; bottom: 50%; left: 0%; ">
+                                    <h4 style='color: black; size: 10; background: #ffffff; width: 190px; text-align: center; margin:auto; '>Hello, I'm Dillon.</h4>
+                                    <br>
+                                    <h1 style='color: black; size: 10; background: #ffffff'>Cosmologist. Astrophysicist. Python Enthusiast.</h1>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <div class="bounce" style="position: absolute; bottom: 9%; ">
+                        <i class="fa fa-angle-double-down"></i>
                     </div>
                 </div>
-            </div>
-        </div>
-    </header>
+                <div class="container">
+                    <div class="row section topspace"> 
+                        <div class="col-sm-6 col-md-6 vali"> 
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <h3 class="text-center vali">Hello, that's me!</h3> 
+                            <br>
+                            <p class="vali">I'm a 2019 NASA Einstein Fellow having just received my PhD from the University of Pennsylvania in Astrophysics and Cosmology. I'm driven to understand the dynamics of the cosmos and the nature of Dark Energy.<br><br>I work with extremely large datasets on a regular basis and imploy state of the art machine learning, statistical tools, and image analysis to make statements about the universe.<br><br>I am also passionate about analysis, vizualization, and manipulation of large datasets across other disciplines.&nbsp;</p> 
+                            <p class="text-center"></p>
+                        </div>                         
+                        <div class="col-sm-6 col-md-6 text-center" style="height: 100%;"> 
+                            <h3 class="text-center"><img src="assets/images/me.jpg" /></h3> 
+                            <br>
+                            <p class="text-center"></p> 
+                        </div>                         
+                        <!-- / section -->                         
+                        <div class="row section featured topspace">
+                            <h2 class="section-title"><span>Research Interests</span></h2> 
+                            <div class="row"> 
+                                <div class="col-sm-6 col-md-3"> 
+                                    <h3 class="text-center">Measuring <br>Dark Energy Properties</h3> 
+                                    <p>I've led the recent analysis of the Dark Energy Survey Supernova Program's first 3 years of data in the measurement of cosmological parameters including the equation of state for dark energy. Our results are in agreement with a cosmological constant and make a significant leap forward in suprnova analysis and data quality. This has involved developement of a "forward modeling" photometric measurement pipeline and the implementation of the final cosmologial parameter analysis. Looking ahead we will perform the single largest analaysis of photometrically classified cosmologically useful supernovae for a state of the art dark energy measurement</p> 
+                                    <p class="text-center"></p>
+                                </div>                                 
+                                <div class="col-sm-6 col-md-3"> 
+                                    <h3 class="text-center">Gravitational Wave Cosmology<br></h3> 
+                                    <p>I work as part of the Dark Energy Survey Gravitational Wave (DESGW) followup team which optimizes use of the Dark Energy Camera for detection of GW Sources. Once found (or with probability of detection) we can use the distance and redshift to obtain an estimate for the expansion rate of the universe today.</p> 
+                                    <p class="text-center"></p>
+                                </div>
+                                <div class="col-sm-6 col-md-3"> 
+                                    <h3 class="text-center">Large Datasets, Data Analysis/ Visualization<br></h3> 
+                                    <p>I work on a daily basis with the Dark Energy Survey database of over 4 petabytes of images. Data reduction, manipulation, transfer, and precision anlysis using state of the art statistical tools. Develop custom algorithims for simulating and making measurements of the astrophysical data.Extensive experience with high performance computing on clusters. Parallelization on both CPU and GPU clusters. Additionally worked in efficiency optimization and large file data transfer techniques.</p> 
+                                    <p class="text-center"></p>
+                                </div>                                 
+                                <div class="col-sm-6 col-md-3"> 
+                                    <h3 class="text-center">Machine learning and Neural Nets<br></h3> 
+                                    <p>I employ a number of machine learning algorithms in my daily work, specifically neural networks to perform object classification and detection. I have extended deep learning neural networks on datasets outside of astrophysics.</p> 
+                                    <p class="text-center"></p>
+                                </div>                                 
+                            </div>                             
+                        </div>                 
 
-    <!-- Main Content -->
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <div class="post-preview">
-            <a href="/my-super-post222.html" rel="bookmark" title="Permalink to My super title22222">
-                <h2 class="post-title">
-                    My super title22222
-                </h2>
-            </a>
-                <p>Short version for index and feeds</p>
-            <p class="post-meta">Posted by
-                    <a href="/author/dillon-brout.html">Dillon Brout</a>
-                 on Fri 03 December 2010
-            </p>
-        </div>
-        <div class="post-preview">
-            <a href="/my-super-post.html" rel="bookmark" title="Permalink to My super title">
-                <h2 class="post-title">
-                    My super title
-                </h2>
-            </a>
-                <p>Short version for index and feeds</p>
-            <p class="post-meta">Posted by
-                    <a href="/author/dillon-brout.html">Dillon Brout</a>
-                 on Thu 02 December 2010
-            </p>
-        </div>
+                        
 
-    <hr>
-    <!-- Pager -->
-    <ul class="pager">
-        <li class="next">
-        </li>
-    </ul>
-    Page 1 / 1
-    <hr>
-            </div>
-        </div>
-    </div>
 
-    <hr>
+                        <!-- / section -->                         
+                        <div class="row section recentworks topspace"> 
+                            <h2 class="section-title"><span>Recent Works</span></h2> 
+                            <div class="thumbnails recentworks row"> 
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4"> 
+                                    <a class="thumbnail" href="https://arxiv.org/abs/2004.10206"> <span class="img"> <img src="images/hms.png" alt=""> <span class="cover"><span class="more">See details &rarr;</span></span> </span> <span class="title">It's Dust!</span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>    
 
-    <!-- Footer -->
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <ul class="list-inline text-center">
-                            <li>
-                                <a href="#">
-                                    <span class="fa-stack fa-lg">
-                                        <i class="fa fa-circle fa-stack-2x"></i>
-                                        <i class="fa fa-you can add links in your config file fa-stack-1x fa-inverse"></i>
-                                    </span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <span class="fa-stack fa-lg">
-                                        <i class="fa fa-circle fa-stack-2x"></i>
-                                        <i class="fa fa-another social link fa-stack-1x fa-inverse"></i>
-                                    </span>
-                                </a>
-                            </li>
-                    </ul>
-<p class="copyright text-muted">
-    Blog powered by <a href="http://getpelican.com">Pelican</a>,
-    which takes great advantage of <a href="http://python.org">Python</a>.
-</p>                </div>
-            </div>
-        </div>
-    </footer>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4"> 
+                                    <a class="thumbnail" href="https://www.darkenergysurvey.org/des-year-3-supernova-cosmology-results/"> <span class="img"> <img src="images/cosmology.png" alt=""> <span class="cover"><span class="more">See details &rarr;</span></span> </span> <span class="title">Supernova Cosmology</span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>    
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4"> 
+                                    <a class="thumbnail" href="https://des.ncsa.illinois.edu/releases/sn"> <span class="img"> <img src="images/datamanagement.png" alt=""> <span class="cover"><span class="more">See details &rarr;</span></span> </span> <span class="title">DES-SN3YR Data Release</span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>                      
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4"> 
+                                    <a class="thumbnail" href="https://devpost.com/software/eyehud"> <span class="img"> <img src="assets/images/eyehud.png" alt=""> <span class="cover"><span class="more">See details &rarr;</span></span> </span> <span class="title">Penn Apps 3rd place: eyehud</span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>           
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4"> 
+                                    <a class="thumbnail" href="http://iopscience.iop.org/article/10.3847/2041-8213/aaa009/meta"> <span class="img"> <img src="images/h0.png" alt=""> <span class="cover"><span class="more">See details &rarr;</span></span> </span> <span class="title">H0 Measurement from the First Binary Neutron Star</span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4"> 
+                                    <a class="thumbnail" href="https://arxiv.org/pdf/1710.05459.pdf"> <span class="img"> <img src="images/discovery.png" alt=""> <span class="cover"><span class="more">See details &rarr;</span></span> </span> <span class="title">Co-Discovery of the First Binary Neutron Star</span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>
+                                <!-- <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4"> 
+                                    <a class="thumbnail" href="https://wheels.blogs.nytimes.com/2011/11/02/johns-hopkins-student-applies-dark-energy-to-the-black-art-of-racing/"> <span class="img"> <img src="assets/images/wheels.jpg" alt=""> <span class="cover"><span class="more">See details &rarr;</span></span> </span> <span class="title">Race Strategy</span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>                      -->            
+                            </div>                             
+                        </div>             
 
-    <!-- jQuery -->
-    <script src="/theme/js/jquery.js"></script>
 
-    <!-- Bootstrap Core JavaScript -->
-    <script src="/theme/js/bootstrap.min.js"></script>
 
-        <!-- Custom Theme JavaScript -->
-        <script src="/theme/js/clean-blog.min.js"></script>
 
-</body>
 
+                        <div class="row section recentworks topspace"> 
+                            <h2 class="section-title"><span>In The News</span></h2> 
+                            <div class="thumbnails recentworks row"> 
+                            	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4"> 
+                                    <a class="thumbnail" href="https://www.youtube.com/watch?v=zu8W3rXcNfg&feature=youtu.be"> <span class="img"> <img src="images/goog.png" alt=""> <span class="cover"><span class="more">See details &rarr;</span></span> </span> <span class="title">Google Talk</span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>    
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4"> 
+                                    <a class="thumbnail" href="https://www.sciencenews.org/article/debate-universe-expansion-rate-hubble-constant-physics-crisis"> <span class="img"> <img src="images/sciencenews.png" alt=""> <span class="cover"><span class="more">See details &rarr;</span></span> </span> <span class="title">Science News</span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>    
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4"> 
+                                    <a class="thumbnail" href="http://www.stsci.edu/news/newsletters/pagecontent/institute-newsletters/2019-volume-36-issue-01/a-new-class-of-fellows-for-the-nasa-hubble-fellowship-program?filterUUID=5705a14d-156b-485f-a3ef-36d8666a1247&filterPage=articles&filterName=filter-hst-newsletter-articles"> <span class="img"> <img src="images/einstein.png" alt=""> <span class="cover"><span class="more">See details &rarr;</span></span> </span> <span class="title">NASA Einstein Fellowship</span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>    
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4"> 
+                                    <a class="thumbnail" href="https://penntoday.upenn.edu/news/penn-physicists-help-spot-explosive-counterpart-ligovirgos-latest-gravitational-waves"> <span class="img"> <img src="images/ligo.png" alt=""> <span class="cover"><span class="more">See details &rarr;</span></span> </span> <span class="title">Discovery of the First Binary Neutron Star</span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>                      
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4"> 
+                                    <a class="thumbnail" href="https://wheels.blogs.nytimes.com/2011/11/02/johns-hopkins-student-applies-dark-energy-to-the-black-art-of-racing/"> <span class="img"> <img src="assets/images/wheels.jpg" alt=""> <span class="cover"><span class="more">See details &rarr;</span></span> </span> <span class="title">Racing Strategy</span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>              
+                            </div>                             
+                        </div>   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <div class="row section itinerary topspace"> 
+                            <h2 class="section-title"><span>Itinerary & Past Talks</span></h2> 
+
+                                <div class="col-lg-4" href='https://indico.cern.ch/event/801461/page/18333-confirmed-speakers'> 
+                                    <a class="thumbnail" href="https://indico.cern.ch/event/801461/page/18333-confirmed-speakers"> <span class="more" ><b>March 12th, 2019</b> <br> Invited Speaker <br>World Summit<br> Guadeloupe Islands</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div> 
+
+                                <div class="col-lg-4" href='http://www.bio.brandeis.edu/news/stw.shtml'> 
+                                    <a class="thumbnail" href="http://www.bio.brandeis.edu/news/stw.shtml"> <span class="more" ><b>Feb 6th, 2019</b> <br> Colloquium <br>Brandeis Univ.<br> Waltham, MA</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>   
+
+
+                            	<div class="col-lg-4"> 
+                                    <a class="thumbnail"> <span class="more" ><b>Oct 15th, 2019</b> <br> Google <br>Press Event<br> New York, NY</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div> 
+
+								<div class="col-lg-4" href='https://kicp-workshops.uchicago.edu/2019-SCAM/presentations.php'> 
+                                    <a class="thumbnail" href="https://kicp-workshops.uchicago.edu/2019-SCAM/presentations.php"> <span class="more" ><b>Oct 4th, 2019</b> <br> Workshop <br>KICP UChicago<br> Chicago, IL</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>   
+
+                                <div class="col-lg-4" href='https://astronomyontap.org/2019/08/aot-philly-3-september-19th/'> 
+                                    <a class="thumbnail" href="https://astronomyontap.org/2019/08/aot-philly-3-september-19th/"> <span class="more" ><b>Sep 19th, 2019</b> <br> Public Talk <br>Astronomy on Tap<br> Philadelphia, PA</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>   
+
+
+                                <div class="col-lg-4" href='https://www.kitp.ucsb.edu/activities/enervac-c19'> 
+                                    <a class="thumbnail" href="https://www.kitp.ucsb.edu/activities/enervac-c19"> <span class="more" ><b>July 17th, 2019</b> <br> Invited Speaker <br>KITP UCSB<br> Santa Barbara, CA</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>   
+
+
+                                <div class="col-lg-4" > 
+                                    <a class="thumbnail" > <span class="more" ><b>May 14th, 2019</b> <br> Thesis Defense <br>UPenn<br> Philadelphia, PA</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>   
+                                
+                                <div class="col-lg-4" href='https://www.lrsm.upenn.edu/outreach/science-cafe/'> 
+                                    <a class="thumbnail" href='https://www.lrsm.upenn.edu/outreach/science-cafe/'> <span class="more" ><b>April 25th, 2019</b> <br> NOVA Science Cafe <br>Black Sheep Pub<br> Philadelphia, PA</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>   
+
+                                <div class="col-lg-4" href='https://www.cmu.edu/cosmology/events/2019/astro-lunch-dillon-brout.html' > 
+                                    <a class="thumbnail" href='https://www.cmu.edu/cosmology/events/2019/astro-lunch-dillon-brout.html'> <span class="more" ><b>April 12, 2019</b> <br> Colloquium <br>CMU/Pitt Physics Seminar<br> Pittsburgh, PA</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>         
+
+                                <div class="col-lg-4" > 
+                                    <a class="thumbnail"> <span class="more" ><b>March 14th, 2019</b> <br> Workshop <br>Universites Paris<br>  Paris, France</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>     
+
+                                <div class="col-lg-4" > 
+                                    <a class="thumbnail"> <span class="more" ><b>March 8th, 2019</b> <br> Colloquium @ Service de Physique Théorique @ ULB<br> Brussels, Belgium</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>      
+
+                                <div class="col-lg-4" href='https://www.amnh.org/our-research/physical-sciences/astrophysics/events'> 
+                                    <a class="thumbnailwithhover" href='https://www.amnh.org/our-research/physical-sciences/astrophysics/events'> <span class="more" href='https://www.amnh.org/our-research/physical-sciences/astrophysics/events'><b>Feb 26th, 2019</b> <br> Seminar @ American Museum<br>of Natural History<br> New York, NY</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>      
+
+                                <div class="col-lg-4" href='https://caswiki.johnshopkins.edu/index.php/CAS_Wine_and_Cheese_Seminars'> 
+                                    <a class="thumbnailwithhover" href='https://caswiki.johnshopkins.edu/index.php/CAS_Wine_and_Cheese_Seminars'> <span class="more" href='https://caswiki.johnshopkins.edu/index.php/CAS_Wine_and_Cheese_Seminars'><b>Feb 11th, 2019</b> <br> Colloquium <br>Johns Hopkins/STSCi<br> Baltimore, MD</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>      
+                                
+
+                                
+
+                                <div class="col-lg-4" href="http://www.ictp-saifr.org/south-american-workshop-on-cosmology-in-the-lsst-era/"> 
+                                    <a class="thumbnailwithhover" href="http://www.ictp-saifr.org/south-american-workshop-on-cosmology-in-the-lsst-era/"> <span class="more" href="http://www.ictp-saifr.org/south-american-workshop-on-cosmology-in-the-lsst-era/"><b>Dec 17th, 2018</b> <br> Plenary @ South American Workshop on <br>Cosmology in the LSST Era<br> Sao Paulo, Brazil</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>      
+
+
+                                <div class="col-lg-4" href="https://www.fi.edu/event/2018-08-14/night-skies-observatory"> 
+                                    <a class="thumbnailwithhover" href="https://www.fi.edu/event/2018-08-14/night-skies-observatory"> <span class="more" href="https://www.noao.edu/meetings/decam2018/agenda.php"><b>August 14th, 2018</b> <br> Public Talk <br>Night Skies @ Franklin Institute<br> Philadelphia, PA</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>      
+
+                            	
+                            	<div class="col-lg-4" href="https://www.noao.edu/meetings/decam2018/agenda.php"> 
+                                    <a class="thumbnailwithhover" href="https://www.noao.edu/meetings/decam2018/agenda.php"> <span class="more" href="https://www.noao.edu/meetings/decam2018/agenda.php"><b>May 22nd, 2018</b> <br> Invited DES-GW Talk <br>DES Community Science Workshop<br> Tucson, AZ</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>       
+
+                            	<div class="col-lg-4" href="https://www.noao.edu/meetings/decam2018/agenda.php"> 
+                                    <a class="thumbnailwithhover" href="https://www.noao.edu/meetings/decam2018/agenda.php"> <span class="more" href="https://www.noao.edu/meetings/decam2018/agenda.php"><b>May 21st, 2018</b> <br> Invited DES-SN Talk <br>DES Community Science Workshop<br> Tucson, AZ</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>       
+
+<!--                                 <div class="col-lg-4" href=""> 
+                                    <a class="thumbnail" href=""> <span class="more" href=""><b>May 18th, 2018</b> <br> Plenary <br>DES Collaboration Meeting<br> College Station, TX</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>        -->
+
+                            	<div class="col-lg-4" href='https://astronomyontap.org/2018/07/aot-bcs-2/'> 
+                                    <a class="thumbnail" href='https://astronomyontap.org/2018/07/aot-bcs-2/'> <span class="more"><b>May 15th, 2018</b> <br> Public Talk <br>Astronomy on Tap<br> College Station, TX</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>       
+
+
+                                <div class="col-lg-4" href="http://meetings.aps.org/Meeting/APR18/Session/J15.4"> 
+                                    <a class="thumbnailwithhover" href="http://meetings.aps.org/Meeting/APR18/Session/J15.4"> <span class="more" href="http://meetings.aps.org/Meeting/APR18/Session/J15.4"><b>April 15th, 2018</b> <br> Talk <br>APS April DES Session J15<br> Columbus, OH</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>       
+
+
+                            <div class="col-lg-4"> 
+                                    <a class="thumbnailwithhover" href="http://theory.fnal.gov/events/event/results-from-des-3/"> <span class="more"><b>Februrary 2nd, 2018</b> <br> Colloquium <br>Fermilab Wine and Cheese <br> Batavia, IL</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>            
+
+                                <div class="col-lg-4"> 
+                                    <a class="thumbnail"> <span class="more"><b>Jan 10th, 2018</b> <br> Talk <br>AAS #231 DES Special Session<br> Washington, DC</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>       
+
+                                <!-- <div class="col-lg-4"> 
+                                    <a class="thumbnail"> <span class="more"><b>November 6th, 2017</b> <br> Plenary <br>DES Collaboration<br> Brisbane, AUS</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>     
+
+                                <div class="col-lg-4"> 
+                                    <a class="thumbnail"> <span class="more"><b>December 12th, 2016</b> <br> Plenary <br>DES Collaboration<br> Cambridge, UK</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>        -->
+
+                                <div class="col-lg-4"> 
+                                    <a class="thumbnail"> <span class="more"><b>April 8th, 2016</b> <br> 2 Public Talks <br>Franklin Institute Planetarium<br> Philadelphia, PA</span></span> </span> <span class="title"></span> </a> 
+                                    <h4></h4> 
+                                    <p></p> 
+                                </div>       
+
+
+
+                        </div>
+
+
+
+                        <!-- /section -->                         
+                        <!-- /section -->                         
+                        <div class="row section clients topspace"> 
+                            <h2 class="section-title"><span>Supported By</span></h2> 
+                            <div class="col-lg-12"> 
+                                <p> <img src="assets/images/supported_by.png" alt=""> </p> 
+                            </div>                             
+                        </div>                         
+                        <!-- /section --> 
+
+
+
+
+
+
+
+
+
+
+                    </div>       
+
+
+                    <!-- /container -->                     
+        </main>         
+        <footer id="footer"> 
+            <div class="container"> 
+                <div class="row"> 
+                    <div class="col-md-3 widget"> 
+                        <h3 class="widget-title">Contact</h3> 
+                        <div class="widget-body"> 
+                            <p><br> <a></a><br> <br></p>
+                        </div>                         
+                    </div>                     
+                    <div class="col-md-3 widget"> 
+                        <h3 class="widget-title">Follow me</h3> 
+                        <div class="widget-body"> 
+                            <p class="follow-me-icons"> <a href="https://twitter.com/dillonbrout?lang=en"><i class="fa fa-twitter fa-2"></i></a> <a href="https://github.com/djbrout"></a> <a href=""><i class="fa fa-github fa-2"></i></a> <a href=""></a> </p> 
+                        </div>                         
+                    </div>                     
+                </div>                 
+                <!-- /row of widgets -->                 
+            </div>             
+        </footer>         
+        <!-- JavaScript libs are placed at the end of the document so the pages load faster -->         
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>         
+        <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>         
+        <script src="assets/js/template.js"></script>         
+    </body>     
 </html>
