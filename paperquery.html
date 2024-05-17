@@ -39,23 +39,21 @@
                 return `
                     <item>
                         <title><![CDATA[${title}]]></title>
+                        <id>${paperUrl}</id>
                         <link>${paperUrl}</link>
-                        <description><![CDATA[Authors: ${authors}]]></description>
-                        <pubDate>${new Date(paper.metadata.created).toUTCString()}</pubDate>
+                        <author><![CDATA[Authors: ${authors}]]></author>
+                        <published>${new Date(paper.metadata.created).toUTCString()}</published>
                     </item>
                 `;
             }).join('');
 
             const rssFeed = `
-                <rss version="2.0">
-                    <channel>
-                        <title>Papers</title>
-                        <link>https://inspirehep.net/</link>
-                        <language>en-us</language>
-                        ${rssItems}
-                    </channel>
-                </rss>
-            `;
+                <?xml version="1.0" encoding="UTF-8"?>
+                <feed xmlns="http://www.w3.org/2005/Atom">
+                    <entry>
+                            ${rssItems}
+                    </entry>
+                </feed>            `;
             return rssFeed;
         }
 
