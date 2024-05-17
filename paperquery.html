@@ -37,22 +37,20 @@
                 const publicationDate = formatDate(paper.created);
                 const paperUrl = `https://inspirehep.net/literature/${paper.id}`;
                 return `
-                    <item>
+                    <entry>
                         <title><![CDATA[${title}]]></title>
                         <id>${paperUrl}</id>
                         <link>${paperUrl}</link>
                         <author><![CDATA[Authors: ${authors}]]></author>
                         <published>${new Date(paper.metadata.created).toUTCString()}</published>
-                    </item>
+                    </entry>
                 `;
             }).join('');
 
             const rssFeed = `
                 <?xml version="1.0" encoding="UTF-8"?>
                 <feed xmlns="http://www.w3.org/2005/Atom">
-                    <entry>
                             ${rssItems}
-                    </entry>
                 </feed>            `;
             return rssFeed;
         }
