@@ -27,7 +27,8 @@
 
         function formatDate(dateString) {
             const date = new Date(dateString);
-            return date.toISOString().split('T')[0]; // Format to "YYYY-MM-DD"
+            const options = { year: 'numeric', month: 'long', day: 'numeric' };
+            return date.toLocaleDateString(undefined, options);   
         }
 
         function createRSSFeed(papers) {
@@ -47,7 +48,7 @@
             }).join('');
 
             const rssFeed = `
-                <?xml version="1.0" encoding="UTF-8"?>
+                <?xml version="1.0" encoding="UTF-8" ?>
                 <rss version="2.0">
                 <channel>
                 <title>Papers</title>
