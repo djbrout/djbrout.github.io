@@ -38,10 +38,10 @@
                 const paperUrl = `https://inspirehep.net/literature/${paper.id}`;
                 return `
                     <item>
-                        <title><![CDATA[${title}]]></title>
+                        <title>${title}></title>
                         <link>${paperUrl}</link>
-                        <description><![CDATA[Authors: ${authors}]]></description>
-                        <pubDate>${new Date(paper.metadata.created).toUTCString()}</pubDate>
+                        <description>${authors}></description>
+                        <pubDate>${new Date(paper.created).toUTCString()}</pubDate>
                     </item>
                 `;
             }).join('');
