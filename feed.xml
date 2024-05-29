@@ -4,20 +4,6 @@
                 <title>Papers</title>
                 
             <item>
-                <title><![CDATA[Scale and Conformal Invariance in 2d Sigma Models, with an Application to N=4 Supersymmetry]]></title>
-                <link>https://inspirehep.net/literature/2782301</link>
-                <dc:creator><![CDATA[Chatterjee, Sourav, Witten, Edward]]></dc:creator>
-                <pubDate>Wed, 01 May 2024 03:53:57 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Liouville Theory: An Introduction to Rigorous Approaches]]></title>
-                <link>https://inspirehep.net/literature/2773427</link>
-                <dc:creator><![CDATA[Chatterjee, Sourav, Witten, Edward]]></dc:creator>
-                <pubDate>Wed, 03 Apr 2024 03:50:18 GMT</pubDate>
-            </item>
-        
-            <item>
                 <title><![CDATA[The Dark Energy Survey: Cosmology Results With ~1500 New High-redshift Type Ia Supernovae Using The Full 5-year Dataset]]></title>
                 <link>https://inspirehep.net/literature/2743691</link>
                 <dc:creator><![CDATA[Abbott, T.M.C., Acevedo, M., Aguena, M., et al.]]></dc:creator>
@@ -43,13 +29,6 @@
                 <link>https://inspirehep.net/literature/2696806</link>
                 <dc:creator><![CDATA[Popovic, Brodie, Scolnic, Daniel, Vincenzi, Maria, et al.]]></dc:creator>
                 <pubDate>Wed, 13 Sep 2023 03:13:53 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[A background-independent algebra in quantum gravity]]></title>
-                <link>https://inspirehep.net/literature/2686072</link>
-                <dc:creator><![CDATA[Witten, Edward]]></dc:creator>
-                <pubDate>Tue, 08 Aug 2023 08:29:45 GMT</pubDate>
             </item>
         
             <item>
@@ -88,13 +67,6 @@
             </item>
         
             <item>
-                <title><![CDATA[$ \mathcal{N} $ = 2 JT supergravity and matrix models]]></title>
-                <link>https://inspirehep.net/literature/2664145</link>
-                <dc:creator><![CDATA[Turiaci, Gustavo J., Witten, Edward]]></dc:creator>
-                <pubDate>Thu, 01 Jun 2023 02:55:33 GMT</pubDate>
-            </item>
-        
-            <item>
                 <title><![CDATA[The Dark Energy Survey Six-Year Calibration Star Catalog]]></title>
                 <link>https://inspirehep.net/literature/2656386</link>
                 <dc:creator><![CDATA[Rykoff, E.S., Tucker, D.L., Burke, D.L., et al.]]></dc:creator>
@@ -102,52 +74,10 @@
             </item>
         
             <item>
-                <title><![CDATA[Anomalies and Nonsupersymmetric D-Branes]]></title>
-                <link>https://inspirehep.net/literature/2655986</link>
-                <dc:creator><![CDATA[Witten, Edward]]></dc:creator>
-                <pubDate>Wed, 03 May 2023 03:05:13 GMT</pubDate>
-            </item>
-        
-            <item>
                 <title><![CDATA[The Dark Energy Survey Supernova Program: Corrections on Photometry Due to Wavelength-dependent Atmospheric Effects]]></title>
                 <link>https://inspirehep.net/literature/2649013</link>
                 <dc:creator><![CDATA[Lee, J., Acevedo, M., Sako, M., et al.]]></dc:creator>
                 <pubDate>Wed, 05 Apr 2023 03:40:25 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[The Timelike Tube Theorem in Curved Spacetime]]></title>
-                <link>https://inspirehep.net/literature/2646935</link>
-                <dc:creator><![CDATA[Strohmaier, Alexander, Witten, Edward]]></dc:creator>
-                <pubDate>Thu, 30 Mar 2023 03:03:37 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Algebras, regions, and observers]]></title>
-                <link>https://inspirehep.net/literature/2638667</link>
-                <dc:creator><![CDATA[Witten, Edward]]></dc:creator>
-                <pubDate>Tue, 07 Mar 2023 02:58:42 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Analytic states in quantum field theory on curved spacetimes]]></title>
-                <link>https://inspirehep.net/literature/2629821</link>
-                <dc:creator><![CDATA[Strohmaier, Alexander, Witten, Edward]]></dc:creator>
-                <pubDate>Tue, 07 Feb 2023 02:59:10 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Algebras and States in JT Gravity]]></title>
-                <link>https://inspirehep.net/literature/2624347</link>
-                <dc:creator><![CDATA[Penington, Geoff, Witten, Edward]]></dc:creator>
-                <pubDate>Thu, 19 Jan 2023 15:11:17 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[A note on the canonical formalism for gravity]]></title>
-                <link>https://inspirehep.net/literature/2615434</link>
-                <dc:creator><![CDATA[Witten, Edward]]></dc:creator>
-                <pubDate>Mon, 19 Dec 2022 02:46:42 GMT</pubDate>
             </item>
         
             <item>
@@ -165,17 +95,87 @@
             </item>
         
             <item>
-                <title><![CDATA[Large N algebras and generalized entropy]]></title>
-                <link>https://inspirehep.net/literature/2154670</link>
-                <dc:creator><![CDATA[Chandrasekaran, Venkatesa, Penington, Geoff, Witten, Edward]]></dc:creator>
-                <pubDate>Thu, 22 Sep 2022 03:36:55 GMT</pubDate>
-            </item>
-        
-            <item>
                 <title><![CDATA[Concerning colour: The effect of environment on type Ia supernova colour in the dark energy survey]]></title>
                 <link>https://inspirehep.net/literature/2130279</link>
                 <dc:creator><![CDATA[Kelsey, L., Sullivan, M., Wiseman, P., et al.]]></dc:creator>
                 <pubDate>Wed, 03 Aug 2022 03:19:31 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[Core-collapse supernovae in the Dark Energy Survey: luminosity functions and host galaxy demographics]]></title>
+                <link>https://inspirehep.net/literature/2116335</link>
+                <dc:creator><![CDATA[Grayling, M., Gutiérrez, C.P., Sullivan, M., et al.]]></dc:creator>
+                <pubDate>Tue, 19 Jul 2022 03:14:08 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[A galaxy-driven model of type Ia supernova luminosity variations]]></title>
+                <link>https://inspirehep.net/literature/2111043</link>
+                <dc:creator><![CDATA[Wiseman, P., Vincenzi, M., Sullivan, M., et al.]]></dc:creator>
+                <pubDate>Wed, 13 Jul 2022 03:31:56 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[Using host galaxy spectroscopy to explore systematics in the standardization of Type Ia supernovae]]></title>
+                <link>https://inspirehep.net/literature/2100594</link>
+                <dc:creator><![CDATA[Dixon, M., Lidman, C., Mould, J., et al.]]></dc:creator>
+                <pubDate>Mon, 27 Jun 2022 03:06:10 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[Constraining RV variation using highly reddened Type Ia supernovae from the Pantheon+ sample]]></title>
+                <link>https://inspirehep.net/literature/2098683</link>
+                <dc:creator><![CDATA[Rose, Benjamin M., Popovic, Brodie, Scolnic, Dan, et al.]]></dc:creator>
+                <pubDate>Wed, 22 Jun 2022 03:34:21 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[The Dark Energy Survey Supernova Program results: type Ia supernova brightness correlates with host galaxy dust]]></title>
+                <link>https://inspirehep.net/literature/2096185</link>
+                <dc:creator><![CDATA[Meldorf, C., Palmese, A., Brout, D., et al.]]></dc:creator>
+                <pubDate>Wed, 15 Jun 2022 03:28:44 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[Connecting Infrared Surface Brightness Fluctuation Distances to Type Ia Supernova Hosts: Testing the Top Rung of the Distance Ladder]]></title>
+                <link>https://inspirehep.net/literature/2072409</link>
+                <dc:creator><![CDATA[Garnavich, Peter, Wood, Charlotte M., Milne, Peter, et al.]]></dc:creator>
+                <pubDate>Wed, 27 Apr 2022 04:25:53 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[Measurements of the Hubble Constant with a Two-rung Distance Ladder: Two Out of Three Ain’t Bad]]></title>
+                <link>https://inspirehep.net/literature/2071976</link>
+                <dc:creator><![CDATA[Kenworthy, W. D'Arcy, Riess, Adam G., Scolnic, Daniel, et al.]]></dc:creator>
+                <pubDate>Tue, 26 Apr 2022 04:10:32 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[Determining the Hubble constant without the sound horizon: A <math display="inline"><mrow><mn>3.6</mn><mo>%</mo></mrow></math> constraint on <math display="inline"><msub><mi>H</mi><mn>0</mn></msub></math> from galaxy surveys, CMB lensing, and supernovae]]></title>
+                <link>https://inspirehep.net/literature/2064429</link>
+                <dc:creator><![CDATA[Philcox, Oliver H.E., Farren, Gerrit S., Sherwin, Blake D., et al.]]></dc:creator>
+                <pubDate>Fri, 08 Apr 2022 03:02:27 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[Measuring Cosmological Parameters with Type Ia Supernovae in redMaGiC Galaxies]]></title>
+                <link>https://inspirehep.net/literature/2037100</link>
+                <dc:creator><![CDATA[Chen, R., Scolnic, D., Rozo, E., et al.]]></dc:creator>
+                <pubDate>Thu, 24 Feb 2022 03:21:14 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[The Pantheon+ Analysis: Cosmological Constraints]]></title>
+                <link>https://inspirehep.net/literature/2030314</link>
+                <dc:creator><![CDATA[Brout, Dillon, Scolnic, Dan, Popovic, Brodie, et al.]]></dc:creator>
+                <pubDate>Thu, 10 Feb 2022 03:28:16 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[The dark energy survey 5-yr photometrically identified type Ia supernovae]]></title>
+                <link>https://inspirehep.net/literature/2020716</link>
+                <dc:creator><![CDATA[Möller, A., Smith, M., Sako, M., et al.]]></dc:creator>
+                <pubDate>Fri, 28 Jan 2022 03:04:11 GMT</pubDate>
             </item>
         
             </channel>
