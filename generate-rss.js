@@ -1,5 +1,5 @@
-const fetch = require('node-fetch');
-const fs = require('fs');
+import fetch from 'node-fetch';
+import { writeFileSync } from 'fs';
 
 const apiUrl = 'https://inspirehep.net/api/literature';
 const queryParams = new URLSearchParams({
@@ -23,7 +23,7 @@ function formatDate(dateString) {
 
 function createRSSFeed(papers) {
     const rssItems = papers.map(paper => {
-        const title = paper.metadata.ttitles[0].title;
+        const title = paper.metadata.titles[0].title;
         const authors = paper.metadata.authors.map(author => author.full_name).slice(0, 3).join(', ') + (paper.metadata.authors.length > 3 ? ', et al.' : '');
         const publicationDate = formatDate(paper.created);
         const paperUrl = `https://inspirehep.net/literature/${paper.id}`;
@@ -51,7 +51,7 @@ function createRSSFeed(papers) {
 async function main() {
     const papers = await fetchPapers();
     const rssFeed = createRSSFeed(papers);
-    fs.writeFileSync('feed.xml', rssFeed, 'utf8');
+    writeFileSync('feed.xml', rssFeed, 'utf8');
 }
 
 main().catch(console.error);
