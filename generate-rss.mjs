@@ -31,7 +31,7 @@ function createRSSFeed(papers) {
             <item>
                 <title><![CDATA[${title}]]></title>
                 <link>${paperUrl}</link>
-                <author><![CDATA[${authors}]]></author>
+                <description><![CDATA[${authors}]]></description>
                 <pubDate>${publicationDate}</pubDate>
             </item>
         `;
