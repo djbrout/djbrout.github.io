@@ -6,7 +6,7 @@ const queryParams = new URLSearchParams({
     sort: 'mostrecent',
     size: '25',
     page: '1',
-    q: 'find author ids.value:INSPIRE-00140145 or dillon.j.brout.1',
+    q: 'find author Hong.Wan.Liu.1 or dillon.j.brout.1 or Emily.C.Cunningham.1',
     fields: 'titles,authors.full_name,created'
 }).toString();
 
