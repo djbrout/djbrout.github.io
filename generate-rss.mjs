@@ -4,7 +4,7 @@ import { writeFileSync } from 'fs';
 const apiUrl = 'https://inspirehep.net/api/literature';
 const queryParams = new URLSearchParams({
     sort: 'mostrecent',
-    size: '25',
+    size: '100',
     page: '1',
     q: 'find author Hong.Wan.Liu.1 or dillon.j.brout.1 or Emily.C.Cunningham.1',
     fields: 'titles,authors.full_name,created'
