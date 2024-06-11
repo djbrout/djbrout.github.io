@@ -4,6 +4,48 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[The Dark Energy Survey Supernova Program: Light curves and 5-Year data release]]></title>
+                <link>https://inspirehep.net/literature/2796140</link>
+                <description><![CDATA[Sánchez, B.O., Brout, D., Vincenzi, M., et al.]]></description>
+                <pubDate>Mon, 10 Jun 2024 03:47:16 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[The Dark Energy Survey Supernova Program: Investigating Beyond-$\Lambda$CDM]]></title>
+                <link>https://inspirehep.net/literature/2796144</link>
+                <description><![CDATA[Camilleri, R., Davis, T.M., Vincenzi, M., et al.]]></description>
+                <pubDate>Mon, 10 Jun 2024 03:47:51 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[The Dark Energy Survey Supernova Program: An updated measurement of the Hubble constant using the Inverse Distance Ladder]]></title>
+                <link>https://inspirehep.net/literature/2796154</link>
+                <description><![CDATA[Camilleri, R., Davis, T.M., Hinton, S.R., et al.]]></description>
+                <pubDate>Mon, 10 Jun 2024 03:48:45 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[The Dark Energy Survey Supernova Program: Slow supernovae show cosmological time dilation out to $z \sim 1$]]></title>
+                <link>https://inspirehep.net/literature/2796158</link>
+                <description><![CDATA[White, Ryan M.T., Davis, Tamara M., Lewis, Geraint F., et al.]]></description>
+                <pubDate>Mon, 10 Jun 2024 03:49:33 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[Modelling the impact of host galaxy dust on type Ia supernova distance measurements]]></title>
+                <link>https://inspirehep.net/literature/2796167</link>
+                <description><![CDATA[Popovic, B., Wiseman, P., Sullivan, M., et al.]]></description>
+                <pubDate>Mon, 10 Jun 2024 03:50:37 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[The Dark Energy Survey : Detection of weak lensing magnification of supernovae and constraints on dark matter haloes]]></title>
+                <link>https://inspirehep.net/literature/2796173</link>
+                <description><![CDATA[Shah, P., Davis, T.M., Bacon, D., et al.]]></description>
+                <pubDate>Mon, 10 Jun 2024 03:53:00 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[Constraining Inflation with the BICEP/Keck CMB Polarization Experiments]]></title>
                 <link>https://inspirehep.net/literature/2791747</link>
                 <description><![CDATA[Ade, P.A.R., Ahmed, Z., Amiri, M., et al.]]></description>
@@ -659,48 +701,6 @@
                 <link>https://inspirehep.net/literature/1963691</link>
                 <description><![CDATA[Karkare, K.S., Anderson, A.J., Barry, P.S., et al.]]></description>
                 <pubDate>Tue, 09 Nov 2021 03:22:48 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Design of the SPT-SLIM Focal Plane: A Spectroscopic Imaging Array for the South Pole Telescope]]></title>
-                <link>https://inspirehep.net/literature/1963707</link>
-                <description><![CDATA[Barry, P.S., Anderson, A., Benson, B., et al.]]></description>
-                <pubDate>Tue, 09 Nov 2021 03:23:36 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Development of MKIDs for Measurement of the Cosmic Microwave Background with the South Pole Telescope]]></title>
-                <link>https://inspirehep.net/literature/1964826</link>
-                <description><![CDATA[Dibert, Karia, Barry, P., Pan, Z., et al.]]></description>
-                <pubDate>Wed, 10 Nov 2021 03:13:29 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[A Step in understanding the Hubble tension]]></title>
-                <link>https://inspirehep.net/literature/1957233</link>
-                <description><![CDATA[Aloni, Daniel, Berlin, Asher, Joseph, Melissa, et al.]]></description>
-                <pubDate>Tue, 02 Nov 2021 03:10:00 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Neural simulation-based inference approach for characterizing the Galactic Center γ-ray excess]]></title>
-                <link>https://inspirehep.net/literature/1944904</link>
-                <description><![CDATA[Mishra-Sharma, Siddharth, Cranmer, Kyle]]></description>
-                <pubDate>Fri, 15 Oct 2021 02:52:08 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Low-energy signals from the formation of dark-matter–nucleus bound states]]></title>
-                <link>https://inspirehep.net/literature/1944121</link>
-                <description><![CDATA[Berlin, Asher, Liu, Hongwan, Pospelov, Maxim, et al.]]></description>
-                <pubDate>Thu, 14 Oct 2021 02:58:00 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[The Pantheon+ Analysis: Evaluating Peculiar Velocity Corrections in Cosmological Analyses with Nearby Type Ia Supernovae]]></title>
-                <link>https://inspirehep.net/literature/1940108</link>
-                <description><![CDATA[Peterson, Erik R., D'Arcy Kenworthy, W. , Scolnic, Daniel, et al.]]></description>
-                <pubDate>Fri, 08 Oct 2021 03:00:56 GMT</pubDate>
             </item>
         
             </channel>
