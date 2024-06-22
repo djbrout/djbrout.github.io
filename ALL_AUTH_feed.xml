@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[The Precursor Small Aperture Telescope (PreSAT) CMB polarimeter]]></title>
+                <link>https://inspirehep.net/literature/2800892</link>
+                <description><![CDATA[Petroff, Matthew A., Ahmed, Zeeshan, Bock, James J., et al.]]></description>
+                <pubDate>Fri, 21 Jun 2024 07:37:41 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[The Dark Energy Survey Supernova Program: Light curves and 5-Year data release]]></title>
                 <link>https://inspirehep.net/literature/2796140</link>
                 <description><![CDATA[Sánchez, B.O., Brout, D., Vincenzi, M., et al.]]></description>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/1963679</link>
                 <description><![CDATA[Robson, G., Anderson, A.J., Barry, P.S., et al.]]></description>
                 <pubDate>Tue, 09 Nov 2021 03:22:28 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[SPT-SLIM: A Line Intensity Mapping Pathfinder for the South Pole Telescope]]></title>
-                <link>https://inspirehep.net/literature/1963691</link>
-                <description><![CDATA[Karkare, K.S., Anderson, A.J., Barry, P.S., et al.]]></description>
-                <pubDate>Tue, 09 Nov 2021 03:22:48 GMT</pubDate>
             </item>
         
             </channel>
