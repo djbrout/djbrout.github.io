@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[A Generative Modeling Approach to Reconstructing 21-cm Tomographic Data]]></title>
+                <link>https://inspirehep.net/literature/2813702</link>
+                <description><![CDATA[Sabti, Nashwan, Reddy, Ram, Muñoz, Julian B., et al.]]></description>
+                <pubDate>Thu, 01 Aug 2024 04:33:59 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[Evaluating Cosmological Biases using Photometric Redshifts for Type Ia Supernova Cosmology with the Dark Energy Survey Supernova Program]]></title>
                 <link>https://inspirehep.net/literature/2810759</link>
                 <description><![CDATA[Chen, R., Scolnic, D., Vincenzi, M., et al.]]></description>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/1979656</link>
                 <description><![CDATA[Dierickx, Marion, Ade, P.A. R., Ahmed, Zeeshan, et al.]]></description>
                 <pubDate>Tue, 30 Nov 2021 09:34:23 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[The Dark Energy Survey supernova program: cosmological biases from supernova photometric classification]]></title>
-                <link>https://inspirehep.net/literature/1973252</link>
-                <description><![CDATA[Vincenzi, M., Sullivan, M., Möller, A., et al.]]></description>
-                <pubDate>Tue, 23 Nov 2021 03:10:45 GMT</pubDate>
             </item>
         
             </channel>
