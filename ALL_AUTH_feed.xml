@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[JWST Validates HST Distance Measurements: Selection of Supernova Subsample Explains Differences in JWST Estimates of Local H0]]></title>
+                <link>https://inspirehep.net/literature/2820380</link>
+                <description><![CDATA[Riess, Adam G., Scolnic, Dan, Anand, Gagandeep S., et al.]]></description>
+                <pubDate>Thu, 22 Aug 2024 04:29:52 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[[O II] as an Effective Indicator of the Dependence Between the Standardised Luminosities of Type Ia Supernovae and the Properties of their Host Galaxies]]></title>
                 <link>https://inspirehep.net/literature/2819249</link>
                 <description><![CDATA[Martin, B., Lidman, C., Brout, D., et al.]]></description>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/1985891</link>
                 <description><![CDATA[Scolnic, Dan, Brout, Dillon, Carr, Anthony, et al.]]></description>
                 <pubDate>Wed, 08 Dec 2021 03:26:30 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[The Pantheon+ Analysis: SuperCal-fragilistic Cross Calibration, Retrained SALT2 Light-curve Model, and Calibration Systematic Uncertainty]]></title>
-                <link>https://inspirehep.net/literature/1985899</link>
-                <description><![CDATA[Brout, Dillon, Taylor, Georgie, Scolnic, Dan, et al.]]></description>
-                <pubDate>Wed, 08 Dec 2021 03:27:38 GMT</pubDate>
             </item>
         
             </channel>
