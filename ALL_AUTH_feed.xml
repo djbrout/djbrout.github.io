@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[Development of the 220/270 GHz Receiver of BICEP Array]]></title>
+                <link>https://inspirehep.net/literature/2825059</link>
+                <description><![CDATA[Nakato, Y., Ade, P.A.R., Ahmed, Z., et al.]]></description>
+                <pubDate>Thu, 05 Sep 2024 08:53:41 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[Maven: A Multimodal Foundation Model for Supernova Science]]></title>
                 <link>https://inspirehep.net/literature/2823345</link>
                 <description><![CDATA[Zhang, Gemma, Helfer, Thomas, Gagliano, Alexander T., et al.]]></description>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/2030314</link>
                 <description><![CDATA[Brout, Dillon, Scolnic, Dan, Popovic, Brodie, et al.]]></description>
                 <pubDate>Thu, 10 Feb 2022 03:28:16 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[The dark energy survey 5-yr photometrically identified type Ia supernovae]]></title>
-                <link>https://inspirehep.net/literature/2020716</link>
-                <description><![CDATA[Möller, A., Smith, M., Sako, M., et al.]]></description>
-                <pubDate>Fri, 28 Jan 2022 03:04:11 GMT</pubDate>
             </item>
         
             </channel>
