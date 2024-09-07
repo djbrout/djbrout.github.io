@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[How DREAMS are made: Emulating Satellite Galaxy and Subhalo Populations with Diffusion Models and Point Clouds]]></title>
+                <link>https://inspirehep.net/literature/2825313</link>
+                <description><![CDATA[Nguyen, Tri, Villaescusa-Navarro, Francisco, Mishra-Sharma, Siddharth, et al.]]></description>
+                <pubDate>Fri, 06 Sep 2024 05:13:04 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[Development of the 220/270 GHz Receiver of BICEP Array]]></title>
                 <link>https://inspirehep.net/literature/2825059</link>
                 <description><![CDATA[Nakato, Y., Ade, P.A.R., Ahmed, Z., et al.]]></description>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/2037100</link>
                 <description><![CDATA[Chen, R., Scolnic, D., Rozo, E., et al.]]></description>
                 <pubDate>Thu, 24 Feb 2022 03:21:14 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[The Pantheon+ Analysis: Cosmological Constraints]]></title>
-                <link>https://inspirehep.net/literature/2030314</link>
-                <description><![CDATA[Brout, Dillon, Scolnic, Dan, Popovic, Brodie, et al.]]></description>
-                <pubDate>Thu, 10 Feb 2022 03:28:16 GMT</pubDate>
             </item>
         
             </channel>
