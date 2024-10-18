@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[BICEP/Keck XVIII: Measurement of BICEP3 polarization angles and consequences for constraining cosmic birefringence and inflation]]></title>
+                <link>https://inspirehep.net/literature/2840670</link>
+                <description><![CDATA[Ade, P.A.R., Ahmed, Z., Amiri, M., et al.]]></description>
+                <pubDate>Thu, 17 Oct 2024 04:32:25 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[Constraints on compact objects from the Dark Energy Survey five-year supernova sample]]></title>
                 <link>https://inspirehep.net/literature/2839133</link>
                 <description><![CDATA[Shah, P., Davis, T.M., Vincenzi, M., et al.]]></description>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/2052441</link>
                 <description><![CDATA[Abazajian, Kevork, Abdulghafour, Arwa, Addison, Graeme E., et al.]]></description>
                 <pubDate>Wed, 16 Mar 2022 03:11:16 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Machine Learning and Cosmology]]></title>
-                <link>https://inspirehep.net/literature/2052713</link>
-                <description><![CDATA[Dvorkin, Cora, Mishra-Sharma, Siddharth, Nord, Brian, et al.]]></description>
-                <pubDate>Wed, 16 Mar 2022 03:27:47 GMT</pubDate>
             </item>
         
             </channel>
