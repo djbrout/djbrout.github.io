@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[Detecting Model Misspecification in Cosmology with Scale-Dependent Normalizing Flows]]></title>
+                <link>https://inspirehep.net/literature/2958525</link>
+                <description><![CDATA[Akhmetzhanova, Aizhan, Cuesta-Lazaro, Carolina, Mishra-Sharma, Siddharth]]></description>
+                <pubDate>Mon, 11 Aug 2025 04:08:53 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[A Joint Search for the Electromagnetic Counterpart to the Gravitational-Wave Binary Black-Hole Merger Candidate S250328ae with the Dark Energy Camera and the Prime Focus Spectrograph]]></title>
                 <link>https://inspirehep.net/literature/2956448</link>
                 <description><![CDATA[Zhang, Haibin, Kokubo, Mitsuru, MacBride, Sean, et al.]]></description>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/2111043</link>
                 <description><![CDATA[Wiseman, P., Vincenzi, M., Sullivan, M., et al.]]></description>
                 <pubDate>Wed, 13 Jul 2022 03:31:56 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[A Step in understanding the <math display="inline"><msub><mi>S</mi><mn>8</mn></msub></math> tension]]></title>
-                <link>https://inspirehep.net/literature/2107825</link>
-                <description><![CDATA[Joseph, Melissa, Aloni, Daniel, Schmaltz, Martin, et al.]]></description>
-                <pubDate>Mon, 11 Jul 2022 02:35:52 GMT</pubDate>
             </item>
         
             </channel>
