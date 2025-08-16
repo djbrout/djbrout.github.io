@@ -4,6 +4,20 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[The Dark Energy Bedrock All-Sky Supernova Program: Cross Calibration, Simulations, and Cosmology Forecasts]]></title>
+                <link>https://inspirehep.net/literature/2960651</link>
+                <description><![CDATA[Acevedo, Maria, Sherman, Nora F., Brout, Dillon, et al.]]></description>
+                <pubDate>Fri, 15 Aug 2025 04:22:15 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[The Dark Energy Bedrock All-Sky Supernova Program: Motivation, Design, Implementation, and Preliminary Data Release]]></title>
+                <link>https://inspirehep.net/literature/2960657</link>
+                <description><![CDATA[Sherman, Nora F., Acevedo, Maria, Brout, Dillon, et al.]]></description>
+                <pubDate>Fri, 15 Aug 2025 04:23:03 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[Detecting Model Misspecification in Cosmology with Scale-Dependent Normalizing Flows]]></title>
                 <link>https://inspirehep.net/literature/2958525</link>
                 <description><![CDATA[Akhmetzhanova, Aizhan, Cuesta-Lazaro, Carolina, Mishra-Sharma, Siddharth]]></description>
@@ -687,20 +701,6 @@
                 <link>https://inspirehep.net/literature/2615706</link>
                 <description><![CDATA[Arora, Arpit, Sanderson, Robyn E., Panithanpaisal, Nondh, et al.]]></description>
                 <pubDate>Mon, 19 Dec 2022 08:31:46 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Core-collapse supernovae in the Dark Energy Survey: luminosity functions and host galaxy demographics]]></title>
-                <link>https://inspirehep.net/literature/2116335</link>
-                <description><![CDATA[Grayling, M., Gutiérrez, C.P., Sullivan, M., et al.]]></description>
-                <pubDate>Tue, 19 Jul 2022 03:14:08 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[A galaxy-driven model of type Ia supernova luminosity variations]]></title>
-                <link>https://inspirehep.net/literature/2111043</link>
-                <description><![CDATA[Wiseman, P., Vincenzi, M., Sullivan, M., et al.]]></description>
-                <pubDate>Wed, 13 Jul 2022 03:31:56 GMT</pubDate>
             </item>
         
             </channel>
