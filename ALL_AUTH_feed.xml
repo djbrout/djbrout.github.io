@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[DELVE Milky Way Satellite Census I: Satellite Population and Survey Selection Function]]></title>
+                <link>https://inspirehep.net/literature/2970131</link>
+                <description><![CDATA[Tan, C.Y., Drlica-Wagner, A., Pace, A.B., et al.]]></description>
+                <pubDate>Wed, 17 Sep 2025 04:28:16 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[Spectral characterization and performance of SPT-SLIM on-chip filterbank spectrometers]]></title>
                 <link>https://inspirehep.net/literature/2966119</link>
                 <description><![CDATA[Benson, C.S., Fichman, K., Adamic, M., et al.]]></description>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/2130336</link>
                 <description><![CDATA[Sr., A.Soliman, Ade, P.A. R., Ahmed, Z., et al.]]></description>
                 <pubDate>Wed, 03 Aug 2022 08:24:28 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Improved polarization calibration of the BICEP3 CMB polarimeter at the South Pole]]></title>
-                <link>https://inspirehep.net/literature/2128243</link>
-                <description><![CDATA[Cornelison, J., Vergès, C., Ade, P.A. R., et al.]]></description>
-                <pubDate>Mon, 01 Aug 2022 03:10:16 GMT</pubDate>
             </item>
         
             </channel>
