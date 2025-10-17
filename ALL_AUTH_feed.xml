@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[Improved Absolute Polarization Calibrator for BICEP CMB Polarimeters]]></title>
+                <link>https://inspirehep.net/literature/3070164</link>
+                <description><![CDATA[Polish, A.R., Ade, P.A.R., Ahmed, Z., et al.]]></description>
+                <pubDate>Thu, 16 Oct 2025 10:17:46 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[Low-noise Fourier Transform Spectroscopy Enabled by Superconducting On-Chip Filterbank Spectrometers]]></title>
                 <link>https://inspirehep.net/literature/3064903</link>
                 <description><![CDATA[Benson, Chris S., Barry, Peter S., Ashworth, Patrick, et al.]]></description>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/2132939</link>
                 <description><![CDATA[Goldfinger, D.C., Ade, P.A.R., Ahmed, Z., et al.]]></description>
                 <pubDate>Mon, 08 Aug 2022 07:04:43 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Streams on FIRE: Populations of Detectable Stellar Streams in the Milky Way and FIRE]]></title>
-                <link>https://inspirehep.net/literature/2132945</link>
-                <description><![CDATA[Shipp, Nora, Panithanpaisal, Nondh, Necib, Lina, et al.]]></description>
-                <pubDate>Mon, 08 Aug 2022 07:06:47 GMT</pubDate>
             </item>
         
             </channel>
