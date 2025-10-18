@@ -4,6 +4,20 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[Design and Performance of the SPT-SLIM Receiver Cryostat]]></title>
+                <link>https://inspirehep.net/literature/3070588</link>
+                <description><![CDATA[Young, M.R., Adamic, M., Anderson, A.J., et al.]]></description>
+                <pubDate>Fri, 17 Oct 2025 04:24:40 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[An On-Sky Atmospheric Calibration of SPT-SLIM]]></title>
+                <link>https://inspirehep.net/literature/3070589</link>
+                <description><![CDATA[Dibert, K.R., Adamic, M., Anderson, A.J., et al.]]></description>
+                <pubDate>Fri, 17 Oct 2025 04:24:41 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[Improved Absolute Polarization Calibrator for BICEP CMB Polarimeters]]></title>
                 <link>https://inspirehep.net/literature/3070164</link>
                 <description><![CDATA[Polish, A.R., Ade, P.A.R., Ahmed, Z., et al.]]></description>
@@ -687,20 +701,6 @@
                 <link>https://inspirehep.net/literature/2139010</link>
                 <description><![CDATA[Anderson, A.J., Barry, P., Bender, A.N., et al.]]></description>
                 <pubDate>Fri, 19 Aug 2022 06:27:48 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Discovery of a Premerger Shock in an Intercluster Filament in Abell 98]]></title>
-                <link>https://inspirehep.net/literature/2133362</link>
-                <description><![CDATA[Sarkar, Arnab, Randall, Scott, Su, Yuanyuan, et al.]]></description>
-                <pubDate>Tue, 09 Aug 2022 03:10:49 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Thermal testing for cryogenic CMB instrument optical design]]></title>
-                <link>https://inspirehep.net/literature/2132939</link>
-                <description><![CDATA[Goldfinger, D.C., Ade, P.A.R., Ahmed, Z., et al.]]></description>
-                <pubDate>Mon, 08 Aug 2022 07:04:43 GMT</pubDate>
             </item>
         
             </channel>
