@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[The Local Distance Network: a community consensus report on the measurement of the Hubble constant at 1% precision]]></title>
+                <link>https://inspirehep.net/literature/3074397</link>
+                <description><![CDATA[Casertano, Stefano, Anand, Gagandeep, Anderson, Richard I., et al.]]></description>
+                <pubDate>Wed, 29 Oct 2025 04:26:27 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[Design and Performance of the SPT-SLIM Receiver Cryostat]]></title>
                 <link>https://inspirehep.net/literature/3070588</link>
                 <description><![CDATA[Young, M.R., Adamic, M., Anderson, A.J., et al.]]></description>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/2142691</link>
                 <description><![CDATA[Nguyen, Tri, Mishra-Sharma, Siddharth, Williams, Reuel, et al.]]></description>
                 <pubDate>Tue, 30 Aug 2022 03:38:51 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[SPT-3G+: mapping the high-frequency cosmic microwave background using kinetic inductance detectors]]></title>
-                <link>https://inspirehep.net/literature/2139010</link>
-                <description><![CDATA[Anderson, A.J., Barry, P., Bender, A.N., et al.]]></description>
-                <pubDate>Fri, 19 Aug 2022 06:27:48 GMT</pubDate>
             </item>
         
             </channel>
