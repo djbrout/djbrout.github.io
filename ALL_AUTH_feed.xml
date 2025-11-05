@@ -4,6 +4,20 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[Deep Chandra X-ray Observations of Abell 2029: the Merger History of a Relaxed, Strong Cool Core Cluster]]></title>
+                <link>https://inspirehep.net/literature/3076229</link>
+                <description><![CDATA[Watson, Courtney B., Blanton, Elizabeth L., Randall, Scott W., et al.]]></description>
+                <pubDate>Tue, 04 Nov 2025 04:25:08 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[The Advanced X-ray Imaging Satellite Community Science Book]]></title>
+                <link>https://inspirehep.net/literature/3076336</link>
+                <description><![CDATA[Koss, Michael, Aftab, Nafisa, Allen, Steven W., et al.]]></description>
+                <pubDate>Tue, 04 Nov 2025 04:43:20 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[The Local Distance Network: a community consensus report on the measurement of the Hubble constant at 1% precision]]></title>
                 <link>https://inspirehep.net/literature/3074397</link>
                 <description><![CDATA[Casertano, Stefano, Anand, Gagandeep, Anderson, Richard I., et al.]]></description>
@@ -687,20 +701,6 @@
                 <link>https://inspirehep.net/literature/2152919</link>
                 <description><![CDATA[Shanahan, Phiala, Terao, Kazuhiro, Whiteson, Daniel, et al.]]></description>
                 <pubDate>Mon, 19 Sep 2022 02:38:33 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Inferring subhalo effective density slopes from strong lensing observations with neural likelihood-ratio estimation]]></title>
-                <link>https://inspirehep.net/literature/2143764</link>
-                <description><![CDATA[Zhang, Gemma, Mishra-Sharma, Siddharth, Dvorkin, Cora]]></description>
-                <pubDate>Wed, 31 Aug 2022 03:47:15 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Uncovering dark matter density profiles in dwarf galaxies with graph neural networks]]></title>
-                <link>https://inspirehep.net/literature/2142691</link>
-                <description><![CDATA[Nguyen, Tri, Mishra-Sharma, Siddharth, Williams, Reuel, et al.]]></description>
-                <pubDate>Tue, 30 Aug 2022 03:38:51 GMT</pubDate>
             </item>
         
             </channel>
