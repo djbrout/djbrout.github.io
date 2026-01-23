@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[Dark Energy Survey Year 6 Results: Cosmological Constraints from Galaxy Clustering and Weak Lensing]]></title>
+                <link>https://inspirehep.net/literature/3109901</link>
+                <description><![CDATA[Abbott, T.M.C., Adamow, M., Aguena, M., et al.]]></description>
+                <pubDate>Thu, 22 Jan 2026 05:18:43 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[TITAN DR1: An Improved, Validated, and Systematically-Controlled Recalibration of ATLAS Photometry toward Type Ia Supernova Cosmology]]></title>
                 <link>https://inspirehep.net/literature/3095921</link>
                 <description><![CDATA[Marlin, Elijah G., Murakami, Yukei S., Brout, Dillon, et al.]]></description>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/2174764</link>
                 <description><![CDATA[Sarkar, Arnab, Randall, Scott, Su, Yuanyuan, et al.]]></description>
                 <pubDate>Wed, 02 Nov 2022 03:24:47 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Constraining the Tilt of the Milky Way's Dark Matter Halo with the Sagittarius Stream]]></title>
-                <link>https://inspirehep.net/literature/2173827</link>
-                <description><![CDATA[Panithanpaisal, Nondh, Sanderson, Robyn E., Arora, Arpit, et al.]]></description>
-                <pubDate>Tue, 01 Nov 2022 13:11:24 GMT</pubDate>
             </item>
         
             </channel>
