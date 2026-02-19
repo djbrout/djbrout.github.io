@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[ABCMB: A Python+JAX Package for the Cosmic Microwave Background Power Spectrum]]></title>
+                <link>https://inspirehep.net/literature/3121058</link>
+                <description><![CDATA[Zhou, Zilu, Giovanetti, Cara, Liu, Hongwan]]></description>
+                <pubDate>Wed, 18 Feb 2026 04:18:37 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[Dark Energy Survey Year 6 Results: Cosmological Constraints from Galaxy Clustering and Weak Lensing]]></title>
                 <link>https://inspirehep.net/literature/3109901</link>
                 <description><![CDATA[Abbott, T.M.C., Adamow, M., Aguena, M., et al.]]></description>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/2626724</link>
                 <description><![CDATA[Aloni, Daniel, Joseph, Melissa, Schmaltz, Martin, et al.]]></description>
                 <pubDate>Fri, 27 Jan 2023 02:52:37 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Anticipating a new physics signal in upcoming 21-cm power spectrum observations]]></title>
-                <link>https://inspirehep.net/literature/2615450</link>
-                <description><![CDATA[Barkana, Rennan, Fialkov, Anastasia, Liu, Hongwan, et al.]]></description>
-                <pubDate>Mon, 19 Dec 2022 02:48:40 GMT</pubDate>
             </item>
         
             </channel>
