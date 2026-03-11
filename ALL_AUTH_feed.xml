@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[BICEP/Keck XXI: Constraints on Early-Universe Parity Violation from Multipole-Dependent Birefringence]]></title>
+                <link>https://inspirehep.net/literature/3127779</link>
+                <description><![CDATA[Ade, P.A.R., Ahmed, Zeeshan, Amiri, Mandana, et al.]]></description>
+                <pubDate>Tue, 10 Mar 2026 04:27:37 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[ABCMB: A Python+JAX Package for the Cosmic Microwave Background Power Spectrum]]></title>
                 <link>https://inspirehep.net/literature/3121058</link>
                 <description><![CDATA[Zhou, Zilu, Giovanetti, Cara, Liu, Hongwan]]></description>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/2631078</link>
                 <description><![CDATA[Bom, Clecio R., Annis, J., Garcia, A., et al.]]></description>
                 <pubDate>Mon, 13 Feb 2023 02:41:45 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Dark Radiation from Neutrino Mixing after Big Bang Nucleosynthesis]]></title>
-                <link>https://inspirehep.net/literature/2626724</link>
-                <description><![CDATA[Aloni, Daniel, Joseph, Melissa, Schmaltz, Martin, et al.]]></description>
-                <pubDate>Fri, 27 Jan 2023 02:52:37 GMT</pubDate>
             </item>
         
             </channel>
