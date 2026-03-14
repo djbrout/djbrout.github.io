@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[Characterizing gamma-ray maps of the Galactic Center with neural density estimation]]></title>
+                <link>https://inspirehep.net/literature/3128963</link>
+                <description><![CDATA[Mishra-Sharma, Siddharth, Cranmer, Kyle S.]]></description>
+                <pubDate>Fri, 13 Mar 2026 11:20:33 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[BICEP/Keck XXI: Constraints on Early-Universe Parity Violation from Multipole-Dependent Birefringence]]></title>
                 <link>https://inspirehep.net/literature/3127779</link>
                 <description><![CDATA[Ade, P.A.R., Ahmed, Zeeshan, Amiri, Mandana, et al.]]></description>
@@ -235,7 +242,7 @@
             </item>
         
             <item>
-                <title><![CDATA[Dark Energy Survey: implications for cosmological expansion models from the final DES Baryon Acoustic Oscillation and Supernova data]]></title>
+                <title><![CDATA[Dark Energy Survey: Implications for cosmological expansion models from the final DES baryon acoustic oscillation and supernova data]]></title>
                 <link>https://inspirehep.net/literature/2898499</link>
                 <description><![CDATA[Abbott, T.M.C., Acevedo, M., Adamow, M., et al.]]></description>
                 <pubDate>Tue, 11 Mar 2025 04:25:38 GMT</pubDate>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/2632003</link>
                 <description><![CDATA[Berlin, Asher, Liu, Hongwan, Pospelov, Maxim, et al.]]></description>
                 <pubDate>Wed, 15 Feb 2023 02:54:32 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Designing an Optimal Kilonova Search Using DECam for Gravitational-wave Events]]></title>
-                <link>https://inspirehep.net/literature/2631078</link>
-                <description><![CDATA[Bom, Clecio R., Annis, J., Garcia, A., et al.]]></description>
-                <pubDate>Mon, 13 Feb 2023 02:41:45 GMT</pubDate>
             </item>
         
             </channel>
