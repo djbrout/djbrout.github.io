@@ -11,13 +11,6 @@
             </item>
         
             <item>
-                <title><![CDATA[Characterizing gamma-ray maps of the Galactic Center with neural density estimation]]></title>
-                <link>https://inspirehep.net/literature/3128963</link>
-                <description><![CDATA[Mishra-Sharma, Siddharth, Cranmer, Kyle S.]]></description>
-                <pubDate>Fri, 13 Mar 2026 11:20:33 GMT</pubDate>
-            </item>
-        
-            <item>
                 <title><![CDATA[BICEP/Keck XXI: Constraints on Early-Universe Parity Violation from Multipole-Dependent Birefringence]]></title>
                 <link>https://inspirehep.net/literature/3127779</link>
                 <description><![CDATA[Ade, P.A.R., Ahmed, Zeeshan, Amiri, Mandana, et al.]]></description>
@@ -701,6 +694,13 @@
                 <link>https://inspirehep.net/literature/2648445</link>
                 <description><![CDATA[Dibert, K.R., Barry, P.S., Anderson, A.J., et al.]]></description>
                 <pubDate>Tue, 04 Apr 2023 03:44:46 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[Terrestrial density of strongly-coupled relics]]></title>
+                <link>https://inspirehep.net/literature/2632003</link>
+                <description><![CDATA[Berlin, Asher, Liu, Hongwan, Pospelov, Maxim, et al.]]></description>
+                <pubDate>Wed, 15 Feb 2023 02:54:32 GMT</pubDate>
             </item>
         
             </channel>
