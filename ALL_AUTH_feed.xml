@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[spectroxide: A code package for computing cosmic microwave background spectral distortions]]></title>
+                <link>https://inspirehep.net/literature/3149783</link>
+                <description><![CDATA[Baker, Ethan, Liu, Hongwan, Mishra-Sharma, Siddharth]]></description>
+                <pubDate>Wed, 29 Apr 2026 04:15:34 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[Calibration-Induced Systematics in SALT3 Training and Their Impact on Dark Energy Constraints from Stage IV Supernova Surveys]]></title>
                 <link>https://inspirehep.net/literature/3147680</link>
                 <description><![CDATA[Anumba, Kene, Jones, David 0., Kessler, Richard, et al.]]></description>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/2648434</link>
                 <description><![CDATA[Cecil, T., Albert, C., Anderson, A.J., et al.]]></description>
                 <pubDate>Tue, 04 Apr 2023 03:43:09 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Exotic energy injection in the early Universe. II. CMB spectral distortions and constraints on light dark matter]]></title>
-                <link>https://inspirehep.net/literature/2642097</link>
-                <description><![CDATA[Liu, Hongwan, Qin, Wenzer, Ridgway, Gregory W., et al.]]></description>
-                <pubDate>Wed, 15 Mar 2023 03:20:09 GMT</pubDate>
             </item>
         
             </channel>
