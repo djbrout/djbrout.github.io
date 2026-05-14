@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[Impact of Calibration Systematics on Dark Energy Constraints from LSST Type Ia Supernovae]]></title>
+                <link>https://inspirehep.net/literature/3154948</link>
+                <description><![CDATA[Medoff, Jonah, Stubbs, Christopher W., Brout, Dillon]]></description>
+                <pubDate>Wed, 13 May 2026 04:37:25 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[spectroxide: A code package for computing cosmic microwave background spectral distortions]]></title>
                 <link>https://inspirehep.net/literature/3149783</link>
                 <description><![CDATA[Baker, Ethan, Liu, Hongwan, Mishra-Sharma, Siddharth]]></description>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/2649013</link>
                 <description><![CDATA[Lee, J., Acevedo, M., Sako, M., et al.]]></description>
                 <pubDate>Wed, 05 Apr 2023 03:40:25 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Fabrication Development for SPT-SLIM, a Superconducting Spectrometer for Line Intensity Mapping]]></title>
-                <link>https://inspirehep.net/literature/2648434</link>
-                <description><![CDATA[Cecil, T., Albert, C., Anderson, A.J., et al.]]></description>
-                <pubDate>Tue, 04 Apr 2023 03:43:09 GMT</pubDate>
             </item>
         
             </channel>
