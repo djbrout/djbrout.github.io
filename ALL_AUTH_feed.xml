@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[Collider-Bench: Benchmarking AI Agents with Particle Physics Analysis Reproduction]]></title>
+                <link>https://inspirehep.net/literature/3155370</link>
+                <description><![CDATA[Faroughy, Darius A., Palacios Schweitzer, Sofia, Pang, Ian, et al.]]></description>
+                <pubDate>Fri, 15 May 2026 04:10:19 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[Impact of Calibration Systematics on Dark Energy Constraints from LSST Type Ia Supernovae]]></title>
                 <link>https://inspirehep.net/literature/3154948</link>
                 <description><![CDATA[Medoff, Jonah, Stubbs, Christopher W., Brout, Dillon]]></description>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/2656386</link>
                 <description><![CDATA[Rykoff, E.S., Tucker, D.L., Burke, D.L., et al.]]></description>
                 <pubDate>Thu, 04 May 2023 10:20:11 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[The Dark Energy Survey Supernova Program: Corrections on Photometry Due to Wavelength-dependent Atmospheric Effects]]></title>
-                <link>https://inspirehep.net/literature/2649013</link>
-                <description><![CDATA[Lee, J., Acevedo, M., Sako, M., et al.]]></description>
-                <pubDate>Wed, 05 Apr 2023 03:40:25 GMT</pubDate>
             </item>
         
             </channel>
