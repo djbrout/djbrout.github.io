@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[Constraints on Dynamical Dark Energy from Multiple Probes in the Full Dark Energy Survey]]></title>
+                <link>https://inspirehep.net/literature/3160925</link>
+                <description><![CDATA[Abbott, T.M.C., Adamow, M., Aguena, M., et al.]]></description>
+                <pubDate>Wed, 27 May 2026 04:32:41 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[Collider-Bench: Benchmarking AI Agents with Particle Physics Analysis Reproduction]]></title>
                 <link>https://inspirehep.net/literature/3155370</link>
                 <description><![CDATA[Faroughy, Darius A., Palacios Schweitzer, Sofia, Pang, Ian, et al.]]></description>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/2664655</link>
                 <description><![CDATA[Murakami, Yukei S., Riess, Adam G., Stahl, Benjamin E., et al.]]></description>
                 <pubDate>Fri, 02 Jun 2023 02:59:52 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[The Dark Energy Survey Six-Year Calibration Star Catalog]]></title>
-                <link>https://inspirehep.net/literature/2656386</link>
-                <description><![CDATA[Rykoff, E.S., Tucker, D.L., Burke, D.L., et al.]]></description>
-                <pubDate>Thu, 04 May 2023 10:20:11 GMT</pubDate>
             </item>
         
             </channel>
