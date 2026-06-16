@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[Controlling instrumental systematics for the BICEP inflation survey]]></title>
+                <link>https://inspirehep.net/literature/3168480</link>
+                <description><![CDATA[Vergès, C., Ade, P.A.R., Ahmed, Z., et al.]]></description>
+                <pubDate>Mon, 15 Jun 2026 04:12:16 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[Dark Matter with a Drag at Low Redshift]]></title>
                 <link>https://inspirehep.net/literature/3168010</link>
                 <description><![CDATA[Schmaltz, Martin, Sivarajan, Eashwar N.]]></description>
@@ -109,7 +116,7 @@
             </item>
         
             <item>
-                <title><![CDATA[TITAN DR1: An Improved, Validated, and Systematically-Controlled Recalibration of ATLAS Photometry toward Type Ia Supernova Cosmology]]></title>
+                <title><![CDATA[TITAN DR1: An Improved, Validated, and Systematically Controlled Recalibration of ATLAS Photometry toward Type Ia Supernova Cosmology]]></title>
                 <link>https://inspirehep.net/literature/3095921</link>
                 <description><![CDATA[Marlin, Elijah G., Murakami, Yukei S., Brout, Dillon, et al.]]></description>
                 <pubDate>Mon, 29 Dec 2025 04:13:18 GMT</pubDate>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/2674113</link>
                 <description><![CDATA[Foote, Hayden R., Besla, Gurtina, Mocz, Philip, et al.]]></description>
                 <pubDate>Tue, 04 Jul 2023 07:49:38 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Hierarchical Neural Simulation-Based Inference Over Event Ensembles]]></title>
-                <link>https://inspirehep.net/literature/2670802</link>
-                <description><![CDATA[Heinrich, Lukas, Mishra-Sharma, Siddharth, Pollard, Chris, et al.]]></description>
-                <pubDate>Fri, 23 Jun 2023 02:42:52 GMT</pubDate>
             </item>
         
             </channel>
