@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[Chromatic Effects Across the Roman Focal Plane: Implications for Supernova Photometry and Measurements of Cosmological Parameters]]></title>
+                <link>https://inspirehep.net/literature/3179704</link>
+                <description><![CDATA[Purohit, Rujuta, Brout, Dillon, Scolnic, Daniel, et al.]]></description>
+                <pubDate>Mon, 13 Jul 2026 04:27:10 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[The Peculiar Growth of Structure: Validating $fσ_8$ Measurements from TITAN Type Ia Supernovae and the Uchuu Simulations]]></title>
                 <link>https://inspirehep.net/literature/3168846</link>
                 <description><![CDATA[Dixon, Mitchell, Jones, David O., Drakos, Nicole E., et al.]]></description>
@@ -144,7 +151,7 @@
             </item>
         
             <item>
-                <title><![CDATA[Constraining Dark Acoustic Oscillations with the High-Redshift UV Luminosity Function]]></title>
+                <title><![CDATA[Constraining dark acoustic oscillations with the high-redshift UV luminosity function]]></title>
                 <link>https://inspirehep.net/literature/3088154</link>
                 <description><![CDATA[Barron, Jared, Curtin, David, Liu, Hongwan, et al.]]></description>
                 <pubDate>Tue, 02 Dec 2025 04:26:20 GMT</pubDate>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/2681794</link>
                 <description><![CDATA[Armstrong, P., Qu, H., Brout, D., et al.]]></description>
                 <pubDate>Thu, 27 Jul 2023 03:18:04 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Roman CCS White Paper: Measuring Type Ia Supernovae Discovered in the Roman High Latitude Time Domain Survey]]></title>
-                <link>https://inspirehep.net/literature/2674867</link>
-                <description><![CDATA[Hounsell, Rebekah, Scolnic, Dan, Brout, Dillon, et al.]]></description>
-                <pubDate>Fri, 07 Jul 2023 03:03:34 GMT</pubDate>
             </item>
         
             </channel>
