@@ -4,6 +4,20 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[SPT-3G+: A Cosmic Microwave Background Experiment for the South Pole Telescope]]></title>
+                <link>https://inspirehep.net/literature/3193803</link>
+                <description><![CDATA[Natoli, T., Ahmed, Z., Athreya, H., et al.]]></description>
+                <pubDate>Fri, 21 Aug 2026 03:38:01 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[The SPT-3G+ receiver design]]></title>
+                <link>https://inspirehep.net/literature/3193816</link>
+                <description><![CDATA[Athreya, H., Ahmed, Z., Austermann, J.E., et al.]]></description>
+                <pubDate>Fri, 21 Aug 2026 03:38:23 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[Overview and status of BICEP Array's BA4-90/150 CMB polarimeter]]></title>
                 <link>https://inspirehep.net/literature/3189574</link>
                 <description><![CDATA[Petroff, M.A., Ade, P.A.R., Ahmed, Z., et al.]]></description>
@@ -687,20 +701,6 @@
                 <link>https://inspirehep.net/literature/2691049</link>
                 <description><![CDATA[Qin, Wenzer, Munoz, Julian B., Liu, Hongwan, et al.]]></description>
                 <pubDate>Mon, 28 Aug 2023 02:44:29 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Data compression and inference in cosmology with self-supervised machine learning]]></title>
-                <link>https://inspirehep.net/literature/2689856</link>
-                <description><![CDATA[Akhmetzhanova, Aizhan, Mishra-Sharma, Siddharth, Dvorkin, Cora]]></description>
-                <pubDate>Tue, 22 Aug 2023 09:47:43 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[The Dark Energy Survey Supernova Program: Cosmological Biases from Host Galaxy Mismatch of Type Ia Supernovae]]></title>
-                <link>https://inspirehep.net/literature/2680522</link>
-                <description><![CDATA[Qu, H., Sako, M., Vincenzi, M., et al.]]></description>
-                <pubDate>Wed, 26 Jul 2023 03:16:59 GMT</pubDate>
             </item>
         
             </channel>
