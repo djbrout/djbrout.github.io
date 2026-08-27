@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[Aliased noise characterization and mitigation in BICEP Array 150, 220 and 270 GHz time-division multiplexed detectors]]></title>
+                <link>https://inspirehep.net/literature/3196198</link>
+                <description><![CDATA[Fatigoni, S., Ade, P.A.R., Ahmed, Z., et al.]]></description>
+                <pubDate>Thu, 27 Aug 2026 04:09:04 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[SPT-3G+: A Cosmic Microwave Background Experiment for the South Pole Telescope]]></title>
                 <link>https://inspirehep.net/literature/3193803</link>
                 <description><![CDATA[Natoli, T., Ahmed, Z., Athreya, H., et al.]]></description>
@@ -186,14 +193,14 @@
             </item>
         
             <item>
-                <title><![CDATA[Dark Photons in the Radio Sky: I. Resonant Conversions in Halos]]></title>
+                <title><![CDATA[Dark photons in the radio sky. I. Resonant conversions in halos]]></title>
                 <link>https://inspirehep.net/literature/3082680</link>
                 <description><![CDATA[Baker, Ethan, Liu, Hongwan]]></description>
                 <pubDate>Fri, 14 Nov 2025 04:12:25 GMT</pubDate>
             </item>
         
             <item>
-                <title><![CDATA[Dark Photons in the Radio Sky: II. Resonant Conversions in the Intergalactic Medium]]></title>
+                <title><![CDATA[Dark photons in the radio sky. II. Resonant conversions in the intergalactic medium]]></title>
                 <link>https://inspirehep.net/literature/3082681</link>
                 <description><![CDATA[Baker, Ethan, Liu, Hongwan]]></description>
                 <pubDate>Fri, 14 Nov 2025 04:12:49 GMT</pubDate>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/2696806</link>
                 <description><![CDATA[Popovic, Brodie, Scolnic, Daniel, Vincenzi, Maria, et al.]]></description>
                 <pubDate>Wed, 13 Sep 2023 03:13:53 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[Birth of the first stars amidst decaying and annihilating dark matter]]></title>
-                <link>https://inspirehep.net/literature/2691049</link>
-                <description><![CDATA[Qin, Wenzer, Munoz, Julian B., Liu, Hongwan, et al.]]></description>
-                <pubDate>Mon, 28 Aug 2023 02:44:29 GMT</pubDate>
             </item>
         
             </channel>
