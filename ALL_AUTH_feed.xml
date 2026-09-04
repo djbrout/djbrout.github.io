@@ -4,6 +4,13 @@
                 <title>Papers</title>
                 
             <item>
+                <title><![CDATA[BICEP/Keck XXII: Analysis of the South Pole Atmosphere for CMB Observations]]></title>
+                <link>https://inspirehep.net/literature/3199024</link>
+                <description><![CDATA[Ade, P.A.R., Ahmed, Z., Amiri, M., et al.]]></description>
+                <pubDate>Thu, 03 Sep 2026 04:19:44 GMT</pubDate>
+            </item>
+        
+            <item>
                 <title><![CDATA[Aliased noise characterization and mitigation in BICEP Array 150, 220 and 270 GHz time-division multiplexed detectors]]></title>
                 <link>https://inspirehep.net/literature/3196198</link>
                 <description><![CDATA[Fatigoni, S., Ade, P.A.R., Ahmed, Z., et al.]]></description>
@@ -694,13 +701,6 @@
                 <link>https://inspirehep.net/literature/2743703</link>
                 <description><![CDATA[Vincenzi, M., Brout, D., Armstrong, P., et al.]]></description>
                 <pubDate>Mon, 08 Jan 2024 04:15:26 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[The Hubble Constant Tension]]></title>
-                <link>https://inspirehep.net/literature/2815161</link>
-                <description><![CDATA[Di Valentino, Eleonora, Brout, Dillon]]></description>
-                <pubDate>Tue, 06 Aug 2024 13:41:29 GMT</pubDate>
             </item>
         
             </channel>
