@@ -74,7 +74,7 @@
             </item>
         
             <item>
-                <title><![CDATA[Aliased noise characterization and mitigation in BICEP Array 150, 220 and 270 GHz time-division multiplexed detectors]]></title>
+                <title><![CDATA[Aliased noise characterization and mitigation in BICEP Array 150, 220 and 270GHz time-division multiplexed detectors]]></title>
                 <link>https://inspirehep.net/literature/3196198</link>
                 <description><![CDATA[Fatigoni, S., Ade, P.A.R., Ahmed, Z., et al.]]></description>
                 <pubDate>Thu, 27 Aug 2026 04:09:04 GMT</pubDate>
@@ -88,7 +88,21 @@
             </item>
         
             <item>
-                <title><![CDATA[Optics and broadband anti-reflection coatings for the BA4-90/150 receiver]]></title>
+                <title><![CDATA[SPT-3G+: A Cosmic Microwave Background Experiment for the South Pole Telescope]]></title>
+                <link>https://inspirehep.net/literature/3193803</link>
+                <description><![CDATA[Natoli, T., Ahmed, Z., Athreya, H., et al.]]></description>
+                <pubDate>Fri, 21 Aug 2026 03:38:01 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[The SPT-3G+ receiver design]]></title>
+                <link>https://inspirehep.net/literature/3193816</link>
+                <description><![CDATA[Athreya, H., Ahmed, Z., Austermann, J.E., et al.]]></description>
+                <pubDate>Fri, 21 Aug 2026 03:38:23 GMT</pubDate>
+            </item>
+        
+            <item>
+                <title><![CDATA[Optics and broadband antireflection coatings for the BA4-90/150 receiver]]></title>
                 <link>https://inspirehep.net/literature/3196371</link>
                 <description><![CDATA[Polish, A.R., Ade, P.A.R., Ahmed, Z., et al.]]></description>
                 <pubDate>Thu, 27 Aug 2026 05:57:21 GMT</pubDate>
@@ -102,7 +116,7 @@
             </item>
         
             <item>
-                <title><![CDATA[Advanced Time-Division Multiplexed Readout Chain for the BICEP Array 90/150 GHz Receiver]]></title>
+                <title><![CDATA[Advanced time-division multiplexed readout chain for the BICEP array 90/150 GHz receiver]]></title>
                 <link>https://inspirehep.net/literature/3196373</link>
                 <description><![CDATA[Cantrall, B., Ade, P.A.R., Ahmed, Z., et al.]]></description>
                 <pubDate>Thu, 27 Aug 2026 05:57:21 GMT</pubDate>
@@ -120,20 +134,6 @@
                 <link>https://inspirehep.net/literature/3196746</link>
                 <description><![CDATA[Patel, A., Ade, P.A.R., Ahmed, Z., et al.]]></description>
                 <pubDate>Fri, 28 Aug 2026 04:07:04 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[SPT-3G+: A Cosmic Microwave Background Experiment for the South Pole Telescope]]></title>
-                <link>https://inspirehep.net/literature/3193803</link>
-                <description><![CDATA[Natoli, T., Ahmed, Z., Athreya, H., et al.]]></description>
-                <pubDate>Fri, 21 Aug 2026 03:38:01 GMT</pubDate>
-            </item>
-        
-            <item>
-                <title><![CDATA[The SPT-3G+ receiver design]]></title>
-                <link>https://inspirehep.net/literature/3193816</link>
-                <description><![CDATA[Athreya, H., Ahmed, Z., Austermann, J.E., et al.]]></description>
-                <pubDate>Fri, 21 Aug 2026 03:38:23 GMT</pubDate>
             </item>
         
             <item>
